@@ -19,7 +19,7 @@ This Python script allows you to generate cryptographic hashes for strings and f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/297QuantumCoder/cryptographic-hash.git
+    git clone https://github.com/297QuantumCoder/Daily-Coding-Projects/Cryptographic Hash Generator and Checker
     ```
 
 2. Navigate to the project directory:
