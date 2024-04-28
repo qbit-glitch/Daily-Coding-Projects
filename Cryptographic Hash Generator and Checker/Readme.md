@@ -16,25 +16,13 @@ This Python script allows you to generate cryptographic hashes for strings and f
 
 ## Usage
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/297QuantumCoder/Daily-Coding-Projects/Cryptographic Hash Generator and Checker
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd cryptographic-hash
-    ```
-
-3. Run the script:
+1. Run the script:
 
     ```bash
     python main.py
     ```
 
-4. Follow the prompts to generate hashes or compare hashes of files.
+2. Follow the prompts to generate hashes or compare hashes of files.
 
 ## Options
 
